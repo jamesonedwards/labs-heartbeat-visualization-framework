@@ -1,0 +1,8 @@
+db.event.update({ event_key : "test-dataset-2" }, { $set: { 'event_tags': ["tag" + Math.floor(Math.random() * 10), "tagthing"] } }, { multi: true });
+
+
+db.event.update({ event_key : "test-dataset-1" }, { $set: { 'event_tags': ["tag" + (new Date().getMilliseconds()), "tagthing"] } }, { multi: true });
+
+
+
+Math.floor(Math.random() * 10) + 1

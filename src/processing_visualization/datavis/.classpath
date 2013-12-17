@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="datavis/ActivityExample.java|datavis/Backup.java|datavis/AuthExample.java|datavis/ColorPicker.java|javax/swing/colorchooser/|javax/swing/|javax/|datavis/ControlFrame.java|datavis/Datavis.java|datavis/DatavisV2.java|datavis/Fader.java|util/MinimUtil.java|datavis/ShapeUtil.java|datavis/Dot.java|datavis/DateUtil.java|datavis/MailUtil.java|datavis/UrlUtil.java" kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/base/net/net.jar" sourcepath="C:/processing/modes/java/libraries/net/src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="datavis/lib/base/net"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/core/core.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="datavis/lib/base/core"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/core/gluegen-rt-natives-linux-amd64.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="datavis/lib/base/core"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/core/gluegen-rt-natives-linux-armv6hf.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="datavis/lib/base/core"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/core/gluegen-rt-natives-linux-i586.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="datavis/lib/base/core"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/core/gluegen-rt-natives-macosx-universal.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="datavis/lib/base/core"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/core/gluegen-rt-natives-windows-amd64.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="datavis/lib/base/core"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/core/gluegen-rt-natives-windows-i586.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="datavis/lib/base/core"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/core/gluegen-rt.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="datavis/lib/base/core"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/core/jogl-all-natives-linux-amd64.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="datavis/lib/base/core"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/core/jogl-all-natives-linux-armv6hf.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="datavis/lib/base/core"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/core/jogl-all-natives-linux-i586.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="datavis/lib/base/core"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/core/jogl-all-natives-macosx-universal.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="datavis/lib/base/core"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/core/jogl-all-natives-windows-amd64.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="datavis/lib/base/core"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/core/jogl-all-natives-windows-i586.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="datavis/lib/base/core"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/core/jogl-all.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="datavis/lib/base/core"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/jameson.edwards/Documents/Software/Java/google-gson-2.2.4/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jameson.edwards/Documents/Software/Java/google-gson-2.2.4/gson-2.2.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jameson.edwards/Documents/Software/Java/google-gson-2.2.4/gson-2.2.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jameson.edwards/Documents/Software/Java/flickrj-android/flickrj-android-2.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jameson.edwards/Documents/Software/Java/scribe-1.3.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/jameson.edwards/Documents/Software/Java/commons-lang3-3.1/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jameson.edwards/Documents/Software/Java/commons-lang3-3.1/commons-lang3-3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jameson.edwards/Documents/Software/Java/commons-lang3-3.1/commons-lang3-3.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jameson.edwards/Documents/Software/Java/commons-lang3-3.1/commons-lang3-3.1-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jameson.edwards/Documents/Software/Java/controlP5-2.0.4/controlP5/library/controlP5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jameson.edwards/Documents/Software/Java/javax.mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jameson.edwards/Documents/Software/Java/slf4j-1.7.5/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jameson.edwards/Documents/Software/Java/json-20090211.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jameson.edwards/Documents/Software/Java/httpcomponents-client-4.2.5/lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jameson.edwards/Documents/Software/Java/httpcomponents-client-4.2.5/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jameson.edwards/Documents/Software/Java/httpcomponents-client-4.2.5/lib/fluent-hc-4.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jameson.edwards/Documents/Software/Java/httpcomponents-client-4.2.5/lib/httpclient-4.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jameson.edwards/Documents/Software/Java/httpcomponents-client-4.2.5/lib/httpclient-cache-4.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jameson.edwards/Documents/Software/Java/httpcomponents-client-4.2.5/lib/httpcore-4.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jameson.edwards/Documents/Software/Java/httpcomponents-client-4.2.5/lib/httpmime-4.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jameson.edwards/Documents/Software/Java/org.apache.commons.httpclient.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jameson.edwards/Documents/Software/LeapMotion/LeapSDK+Examples_hotfix_public_win_x86_0.8.1+6221/LeapSDK/lib/LeapJava.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/jameson.edwards/Documents/Software/LeapMotion/LeapSDK+Examples_hotfix_public_win_x86_0.8.1+6221/LeapSDK/lib/x64"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
